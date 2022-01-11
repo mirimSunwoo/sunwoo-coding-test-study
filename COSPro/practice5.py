@@ -12,4 +12,4 @@ def solution(number):
             current = current//10
     return count
 
-print(solution(33))
+print(solution(12))
