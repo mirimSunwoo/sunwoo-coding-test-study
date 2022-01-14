@@ -12,7 +12,7 @@ def solution(num_apple, num_carrot, k):
     i = 0
     while k - (num_apple + num_carrot + i) > 0:
         if i % 4 == 0:
-            answer += 1
+            answer -= 1
         i = i + 1
         
     return answer

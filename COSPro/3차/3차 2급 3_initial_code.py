@@ -4,6 +4,11 @@
 def solution(scores):
     #여기에 코드를 작성해주세요.
     answer = 0
+    total = 0
+    scores.sort()
+    for x in scores[1:-1]:
+        total += x
+        answer = total//(len(scores) -2)
     return answer
 
 #아래는 테스트케이스 출력을 해보기 위한 코드입니다.

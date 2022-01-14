@@ -1,10 +1,17 @@
 #You may use import as below.
 #import math
+#완료
 
 def solution(price, grade):
     #Write code here.
     answer = 0
-    return answer
+    if grade == "S":
+        answer = price - price*0.05
+    elif grade == "G":
+        answer = price - price*0.1
+    elif grade == "V":
+        answer = price - price*0.15
+    return int(answer)
 
 #The following is code to output testcase.
 price1 = 2500

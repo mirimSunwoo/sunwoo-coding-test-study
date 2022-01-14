@@ -10,12 +10,12 @@ def solution(member_age, transportation):
 		child_expense = 45000
 
 	if len(member_age) >= 10:
-		adult_expense = @@@
-		child_expense = @@@
+		adult_expense = int(adult_expense - (adult_expense*0.1))
+		child_expense = int(child_expense - (child_expense*0.2))
 
 	total_expenses = 0
 	for age in member_age:
-		if @@@:
+		if age>=20:
 			total_expenses += adult_expense
 		else:
 			total_expenses += child_expense

@@ -2,8 +2,8 @@ def solution(money, chairs, desks):
     answer = 0
     for chair in chairs:
         for desk in desks:
-            price =
-            if answer < price and @@@:
+            price = chair + desk
+            if answer < price and money:
                 answer = price
     return answer
 
