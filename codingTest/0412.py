@@ -8,3 +8,7 @@ def solution(n):
         answer += nums[x-1:x]
         newList = list(map(isIntList,answer))
     return newList
+
+#다른분의 풀이
+def digit_reverse(n):
+    return list(map(int, reversed(str(n))))
