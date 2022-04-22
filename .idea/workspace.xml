@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512b1cee-0ee7-427d-b7f7-ec1687966379" name="Default Changelist" comment="[ADD] sunwoo / 0408 자릿수 더하기">
-      <change afterPath="$PROJECT_DIR$/codingTest/0415.py" afterDir="false" />
+    <list default="true" id="512b1cee-0ee7-427d-b7f7-ec1687966379" name="Default Changelist" comment="[ADD] sunwoo / 0415 모의고사">
+      <change afterPath="$PROJECT_DIR$/codingTest/0422.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,6 +141,9 @@
       <workItem from="1649391904884" duration="1709000" />
       <workItem from="1649982754291" duration="696000" />
       <workItem from="1649996898058" duration="1847000" />
+      <workItem from="1650002968693" duration="107000" />
+      <workItem from="1650256646490" duration="80000" />
+      <workItem from="1650582796907" duration="1221000" />
     </task>
     <servers />
   </component>
