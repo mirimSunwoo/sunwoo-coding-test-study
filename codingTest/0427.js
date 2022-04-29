@@ -2,7 +2,6 @@ function solution(seoul) {
     var answer = String(seoul.findIndex(v=>v=="Kim")); //callback함수를 써야한다.
     return "김서방은 "+answer +"에 있다"
 }
-
 //다른사람의 풀이
 function findKim(seoul){
   var idx = seoul.indexOf('Kim'); //callback함수를안써도 되는 편리함이 있다
