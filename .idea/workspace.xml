@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="512b1cee-0ee7-427d-b7f7-ec1687966379" name="Default Changelist" comment="[ADD] sunwoo / 0415 모의고사">
-      <change afterPath="$PROJECT_DIR$/codingTest/0504.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codingTest/0506.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="0505_핸드폰_번호_가리기" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -120,6 +120,8 @@
         <item itemvalue="Python.START (1)" />
         <item itemvalue="Python.START" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.START (1)" />
+        <item itemvalue="Python.START" />
       </list>
     </recent_temporary>
   </component>
