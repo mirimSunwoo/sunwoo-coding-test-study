@@ -17,7 +17,7 @@ def solution(s):
                 eng = ''
     return int(result)
 
-#다른사람의 풀이
+#다른사람의 풀이(블로그 참조)
 def solution(s):
     e_num=['zero','one','two','three','four','five', 'six','seven','eight','nine']
     answer = ''
