@@ -26,6 +26,3 @@ def solution(s):
             s - s.replace(num,str(idx))
         answer = s
     return int(answer)
-
-
-
