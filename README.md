@@ -12,7 +12,7 @@
 * __5주차__
   * 블로그 URL : https://blog.naver.com/program_sw/222715956725
 * __6주차__
-  * 블로그 URL : https://blog.naver.com/program_sw/222733722883
+  * 블로그 URL : https://blog.naver.com/program_sw/222733687730
 * __7주차__
   * 블로그 URL : https://blog.naver.com/program_sw/222733722883
       
