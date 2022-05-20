@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="512b1cee-0ee7-427d-b7f7-ec1687966379" name="Default Changelist" comment="[ADD] sunwoo / 0415 모의고사">
-      <change afterPath="$PROJECT_DIR$/codingTest/0517.py" afterDir="false" />
+    <list default="true" id="512b1cee-0ee7-427d-b7f7-ec1687966379" name="Default Changelist" comment="[0517] 나누어 떨어지는 숫자 배열">
+      <change afterPath="$PROJECT_DIR$/codingTest/0519.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +38,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -141,7 +142,16 @@
       <workItem from="1650002968693" duration="107000" />
       <workItem from="1650256646490" duration="80000" />
       <workItem from="1650582796907" duration="1221000" />
+      <workItem from="1653006228646" duration="58000" />
     </task>
+    <task id="LOCAL-00001" summary="[0517] 나누어 떨어지는 숫자 배열">
+      <created>1652761704432</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652761704432</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -163,7 +173,8 @@
       <path value="$PROJECT_DIR$/pycharm_coding" />
     </ignored-roots>
     <MESSAGE value="[ADD] sunwoo / 0408 자릿수 더하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="[ADD] sunwoo / 0408 자릿수 더하기" />
+    <MESSAGE value="[0517] 나누어 떨어지는 숫자 배열" />
+    <option name="LAST_COMMIT_MESSAGE" value="[0517] 나누어 떨어지는 숫자 배열" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PycharmProjects$main.coverage" NAME="main Coverage Results" MODIFIED="1637631990889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../PYP_MAEUM" />
