@@ -1,3 +1,4 @@
+#다른사람의 풀이를 참고
 def solution(s, n):
     answer = ''
     for i in s :
